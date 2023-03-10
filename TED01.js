@@ -1,6 +1,6 @@
 var i, altura, sexo, maiorAltura = 0, menorAltura = 0, mulher = 0, quantidadeMulher = 0, homem = 0, quantidadeHomem = 0, mediaAlturaHomem;
 
-for(i=1; i<=3; i++){
+for(i=1; i<=15; i++){
     altura=parseFloat(prompt("Informe a sua altura: ["+i+"]"));
     sexo=prompt("Informe o seu sexo (M ou F): ");
 
