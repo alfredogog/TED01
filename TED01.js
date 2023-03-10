@@ -20,10 +20,7 @@ for(i=1; i<=3; i++){
 }
 mediaAlturaHomem=homem/quantidadeHomem;
 
-console.log("A maior altura do grupo é: "+maiorAltura);
+console.log("A maior ++ altura do grupo é: "+maiorAltura);
 console.log("A menor altura do grupo é: "+menorAltura);
 console.log("A média da altura dos homens é: "+mediaAlturaHomem);
 console.log("O número de mulheres é: "+quantidadeMulher);
-
-
-
